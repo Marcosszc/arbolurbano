@@ -1,0 +1,6 @@
+{
+  "name": "ArboMapa — Gestión de Arbolado Urbano",
+  "description": "Servicio web de inventario georreferenciado de arbolado urbano con Supabase, OpenStreetMap y Google Maps para gestionar tareas de riego y poda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
